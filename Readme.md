@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naomo123&theme=radical&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=naomo123&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomo123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+💬 Ask me about Bitcoin, Lightning Network, and beginner-friendly dev tips
 
 #
 
