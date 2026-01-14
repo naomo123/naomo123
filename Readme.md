@@ -31,8 +31,5 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"/>
-  <img height="30" width="40" src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg"/>
   <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"/>
 </div>
